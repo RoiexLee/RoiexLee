@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 30/09/2022 18:56:01 UTC
+ Last Updated on 01/10/2022 18:51:55 UTC
 <!--END_SECTION:waka-->
