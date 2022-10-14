@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-839%20lines%20of%20code-blue)
 
@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/10/2022 19:00:53 UTC
+ Last Updated on 14/10/2022 18:55:12 UTC
 <!--END_SECTION:waka-->
