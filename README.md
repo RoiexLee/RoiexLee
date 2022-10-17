@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,17 +26,21 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 mins              ████████████████████░░░░░   80.94% 
-GitIgnore file           1 min               ████░░░░░░░░░░░░░░░░░░░░░   19.06%
+Text                     5 hrs 44 mins       ██████████████████████░░░   90.12% 
+SCSS                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-PyCharm                  7 mins              █████████████████████████   100.0%
+VS Code                  6 hrs 14 mins       ████████████████████████░   97.76% 
+PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+Windows                  6 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/10/2022 18:53:10 UTC
+ Last Updated on 17/10/2022 19:10:22 UTC
 <!--END_SECTION:waka-->
