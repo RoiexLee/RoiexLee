@@ -26,18 +26,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    23 mins             ███████████████████░░░░░░   77.39% 
-Python                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   22.61%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             ███████████████████░░░░░░   77.39% 
-PyCharm                  6 mins              █████░░░░░░░░░░░░░░░░░░░░   22.61%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 19/01/2023 18:40:51 UTC
+ Last Updated on 20/01/2023 18:40:04 UTC
 <!--END_SECTION:waka-->
