@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -42,5 +42,5 @@ Windows                  3 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 14/05/2023 18:34:39 UTC
+ Last Updated on 15/05/2023 18:34:35 UTC
 <!--END_SECTION:waka-->
