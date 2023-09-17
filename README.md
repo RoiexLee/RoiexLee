@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.5%20thousand%20lines%20of%20code-blue)
 
@@ -26,15 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 hrs 25 mins       ████████████████████████░   97.24 % 
+Kotlin                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+ActionScript             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  6 hrs 28 mins       █████████████████████████   98.05 % 
+IntelliJ                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/09/2023 18:34:42 UTC
+ Last Updated on 17/09/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
