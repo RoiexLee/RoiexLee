@@ -26,19 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 1 min          ██████████████████████░░░   88.77 % 
-Kotlin                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-ActionScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Chameleon                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 1 min          ██████████████████████░░░   88.86 % 
-IntelliJ                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/09/2023 18:34:46 UTC
+ Last Updated on 24/09/2023 18:34:52 UTC
 <!--END_SECTION:waka-->
