@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   16 hrs 32 mins      ██████████████████████░░░   89.78 % 
-Jupyter                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-textmate                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Python                   19 hrs 2 mins       ███████████████████████░░   90.33 % 
+Jupyter                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+ActionScript 3           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 24 mins      █████████████████████████   100.00 % 
+PyCharm                  21 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/10/2023 18:36:56 UTC
+ Last Updated on 18/10/2023 18:36:47 UTC
 <!--END_SECTION:waka-->
