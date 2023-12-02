@@ -26,17 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   7 hrs 15 mins       ██████████████████████░░░   86.48 % 
-CSV/TSV                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  8 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/12/2023 18:36:24 UTC
+ Last Updated on 02/12/2023 18:34:42 UTC
 <!--END_SECTION:waka-->
