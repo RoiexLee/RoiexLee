@@ -26,17 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Text                     0 secs              █████████████░░░░░░░░░░░░   52.63 % 
-Python                   0 secs              ███████████░░░░░░░░░░░░░░   45.84 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/01/2025 18:41:08 UTC
+ Last Updated on 18/01/2025 18:39:06 UTC
 <!--END_SECTION:waka-->
