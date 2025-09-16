@@ -16,28 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2020%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.6%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   41 mins             ███████████████░░░░░░░░░░   61.25 % 
-Markdown                 26 mins             ██████████░░░░░░░░░░░░░░░   38.75 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-PyCharm                  41 mins             ███████████████░░░░░░░░░░   61.41 % 
-VS Code                  25 mins             ██████████░░░░░░░░░░░░░░░   38.59 % 
-
-💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 15/09/2025 18:46:14 UTC
+ Last Updated on 16/09/2025 18:45:51 UTC
 <!--END_SECTION:waka-->
