@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.6%20thousand%20lines%20of%20code-blue)
 
@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   51 mins             ███████████████████░░░░░░   75.48 % 
-Text                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Python                   2 hrs 21 mins       ██████████████████████░░░   89.46 % 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🔥 Editors: 
-PyCharm                  51 mins             ███████████████████░░░░░░   75.48 % 
-VS Code                  16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+PyCharm                  2 hrs 21 mins       ██████████████████████░░░   89.46 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/12/2025 18:50:10 UTC
+ Last Updated on 10/12/2025 18:51:41 UTC
 <!--END_SECTION:waka-->
