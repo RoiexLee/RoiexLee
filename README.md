@@ -26,16 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 3 hrs 21 mins       ████████████████████████░   95.85 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2026 19:06:36 UTC
+ Last Updated on 14/03/2026 19:02:40 UTC
 <!--END_SECTION:waka-->
