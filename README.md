@@ -26,18 +26,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 35 mins             █████████████████████░░░░   84.80 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Markdown                 31 mins             ██████████████████████░░░   87.82 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 19:25:46 UTC
+ Last Updated on 24/03/2026 19:33:09 UTC
 <!--END_SECTION:waka-->
