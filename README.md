@@ -26,18 +26,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     18 mins             █████████░░░░░░░░░░░░░░░░   35.77 % 
-SSH Config               17 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
-Markdown                 13 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JSON                     18 mins             ██████████████░░░░░░░░░░░   54.81 % 
+Markdown                 13 mins             ███████████░░░░░░░░░░░░░░   42.14 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2026 19:09:09 UTC
+ Last Updated on 06/04/2026 19:34:50 UTC
 <!--END_SECTION:waka-->
