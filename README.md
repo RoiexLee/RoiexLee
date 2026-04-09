@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        █████████████████████████   98.74 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 1 hr 11 mins        ████████████████████████░   94.30 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2026 19:45:30 UTC
+ Last Updated on 09/04/2026 19:44:56 UTC
 <!--END_SECTION:waka-->
