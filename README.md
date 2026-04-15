@@ -26,15 +26,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     4 mins              █████████████████████████   100.00 % 
+Markdown                 33 mins             ██████████████████████░░░   88.70 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 19:47:36 UTC
+ Last Updated on 15/04/2026 19:47:47 UTC
 <!--END_SECTION:waka-->
