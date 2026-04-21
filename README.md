@@ -26,18 +26,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 1 hr 59 mins        ███████████████████████░░   92.42 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown                 1 hr 59 mins        ████████████████░░░░░░░░░   62.82 % 
+TeX                      56 mins             ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 19:39:23 UTC
+ Last Updated on 21/04/2026 19:44:05 UTC
 <!--END_SECTION:waka-->
