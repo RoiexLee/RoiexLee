@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TeX                      1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   35.01 % 
-Python                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-BibTeX                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Cuda                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+TeX                      1 hr 13 mins        ████████████░░░░░░░░░░░░░   47.42 % 
+Cuda                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Markdown                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 20:32:57 UTC
+ Last Updated on 21/05/2026 20:18:07 UTC
 <!--END_SECTION:waka-->
