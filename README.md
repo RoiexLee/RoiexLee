@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.19%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ████████████████░░░░░░░░░   64.59 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Makefile                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-TeX                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+TeX                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Cuda                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 20:28:31 UTC
+ Last Updated on 27/05/2026 20:31:58 UTC
 <!--END_SECTION:waka-->
