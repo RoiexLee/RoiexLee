@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2037%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.19%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183.82%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,19 +24,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     14 hrs 52 mins      ██████████████░░░░░░░░░░░   57.57 % 
-GDScript3                5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Markdown                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TeX                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JSON                     17 hrs 16 mins      █████████████░░░░░░░░░░░░   51.39 % 
+GDScript3                5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Markdown                 3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Rust                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TeX                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 19:52:26 UTC
+ Last Updated on 07/06/2026 19:54:20 UTC
 <!--END_SECTION:waka-->
