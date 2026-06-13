@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203.67%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     15 hrs 19 mins      ████████████░░░░░░░░░░░░░   48.50 % 
-GDScript3                5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Rust                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+GDScript3                14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.54 % 
+JSON                     12 hrs              ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Rust                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Other                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 31 mins      █████████████████████████   99.81 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  35 hrs 54 mins      █████████████████████████   99.83 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  31 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 20:34:59 UTC
+ Last Updated on 13/06/2026 20:01:02 UTC
 <!--END_SECTION:waka-->
