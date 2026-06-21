@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-GDScript3                5 hrs 5 mins        ██████████████████░░░░░░░   71.97 % 
-Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-TeX                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-GDScript                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+GDScript3                1 hr 44 mins        █████████████░░░░░░░░░░░░   53.69 % 
+Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+TeX                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Godot Resource           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 20:04:00 UTC
+ Last Updated on 21/06/2026 20:12:26 UTC
 <!--END_SECTION:waka-->
