@@ -26,19 +26,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-GDScript3                1 hr 44 mins        █████████████░░░░░░░░░░░░   53.69 % 
-Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-TeX                      28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Godot Resource           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Python                   1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+TeX                      1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Other                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+BibTeX                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+SSH Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   98.94 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 20:12:26 UTC
+ Last Updated on 22/06/2026 21:20:18 UTC
 <!--END_SECTION:waka-->
