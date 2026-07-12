@@ -20,22 +20,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.37%20thousand%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Other                    25 mins             ████████████████████████░   96.78 % 
-TeX                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-
-🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/07/2026 19:41:12 UTC
+ Last Updated on 12/07/2026 19:38:24 UTC
 <!--END_SECTION:waka-->
