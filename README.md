@@ -26,17 +26,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 5 mins         ████████████████████████░   95.68 % 
-TeX                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    29 mins             ███████████████████████░░   92.42 % 
+TeX                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 19:58:05 UTC
+ Last Updated on 14/07/2026 19:51:42 UTC
 <!--END_SECTION:waka-->
