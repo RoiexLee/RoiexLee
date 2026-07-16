@@ -26,16 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    29 mins             ███████████████████████░░   92.42 % 
-TeX                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/07/2026 19:45:26 UTC
+ Last Updated on 16/07/2026 19:41:10 UTC
 <!--END_SECTION:waka-->
