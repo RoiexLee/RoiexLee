@@ -26,18 +26,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   9 mins              ███████████████░░░░░░░░░░   58.01 % 
-Markdown                 6 mins              █████████░░░░░░░░░░░░░░░░   37.01 % 
-TeX                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             ███████████████████░░░░░░   74.70 % 
-Antigravity Desktop      4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2026 19:43:19 UTC
+ Last Updated on 26/07/2026 19:43:28 UTC
 <!--END_SECTION:waka-->
