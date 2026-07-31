@@ -28,38 +28,38 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 25 mins       ██████████████████████░░░   88.07 % 
-TeX                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Other                    2 hrs 17 mins       ██████████████████████░░░   87.47 % 
+TeX                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (99.49%)
+⏱ AI Coding Time: 2 hrs 35 mins (99.46%)
 
 ✍️ 220 lines written by AI, 14 lines written by hand (94.02% AI-written)
 
-🔤 15,820,394 Input Tokens, 126,035 Output Tokens
+🔤 14,208,265 Input Tokens, 107,181 Output Tokens
 
-💵 $82.88 Estimated AI Cost This Week
+💵 $74.26 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 42 AI Prompts
+🧠 8 AI Sessions, 39 AI Prompts
 
 GPT                      220 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.02% of written lines came from AI
-📝 Concise Prompter — average 138 characters per prompt
+📝 Concise Prompter — average 141 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 5.98% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:01:20 UTC
+ Last Updated on 31/07/2026 20:01:55 UTC
 <!--END_SECTION:waka-->
