@@ -28,38 +28,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 16 mins       ██████████████████████░░░   87.42 % 
-TeX                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Other                    1 hr 54 mins        ██████████████████░░░░░░░   70.89 % 
+Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 35 mins (99.46%)
+⏱ AI Coding Time: 2 hrs 40 mins (99.46%)
 
-✍️ 220 lines written by AI, 14 lines written by hand (94.02% AI-written)
+✍️ 401 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,802,711 Input Tokens, 105,605 Output Tokens
+🔤 33,972,451 Input Tokens, 326,046 Output Tokens
 
-💵 $72.86 Estimated AI Cost This Week
+💵 $179.64 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 37 AI Prompts
+🧠 8 AI Sessions, 24 AI Prompts
 
-GPT                      220 lines           █████████████████████████   100.00 % 
+GPT                      401 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.02% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.98% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 384 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 7.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 19:43:24 UTC
+ Last Updated on 04/08/2026 20:08:57 UTC
 <!--END_SECTION:waka-->
