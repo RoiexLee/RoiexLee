@@ -28,43 +28,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JavaScript               2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
-Markdown                 2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-HTML                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
+Markdown                 2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       ███████████████████████░░   92.35 % 
-Antigravity Desktop      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+VS Code                  7 hrs 18 mins       ███████████████████████░░   90.94 % 
+Antigravity Desktop      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 💻 Operating System: 
-Windows                  7 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 35 mins (63.41%)
+⏱ AI Coding Time: 5 hrs 11 mins (64.49%)
 
-✍️ 644 lines written by AI, 242 lines written by hand (72.69% AI-written)
+✍️ 830 lines written by AI, 449 lines written by hand (64.89% AI-written)
 
 🔤 27,678,853 Input Tokens, 327,077 Output Tokens
 
 💵 $144.20 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 48 AI Prompts
+🧠 14 AI Sessions, 62 AI Prompts
 
-GPT                      637 lines           ███████████████████░░░░░░   76.56 % 
-Gemini                   195 lines           ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+GPT                      637 lines           ███████████████░░░░░░░░░░   60.21 % 
+Gemini                   421 lines           ██████████░░░░░░░░░░░░░░░   39.79 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.69% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
+⚖️ Balanced with AI — 64.89% of written lines came from AI
+📝 Concise Prompter — average 366 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 35.95% of changed lines were hand-edited
+🚀 High AI Trust — 40.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 19:08:15 UTC
+ Last Updated on 09/08/2026 19:12:00 UTC
 <!--END_SECTION:waka-->
