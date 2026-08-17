@@ -28,44 +28,42 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   36.16 % 
-Markdown                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.07 % 
-JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JSON                     1 hr 13 mins        ████████████░░░░░░░░░░░░░   47.32 % 
+Markdown                 1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.28 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+SSH Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████░░░░░░░░   66.50 % 
-Codex Vscode             57 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Antigravity Desktop      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+VS Code                  1 hr 37 mins        ████████████████░░░░░░░░░   62.88 % 
+Codex Vscode             57 mins             █████████░░░░░░░░░░░░░░░░   37.12 % 
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (81.2%)
+⏱ AI Coding Time: 2 hrs 9 mins (83.34%)
 
-✍️ 1,438 lines written by AI, 280 lines written by hand (83.7% AI-written)
+✍️ 1,252 lines written by AI, 73 lines written by hand (94.49% AI-written)
 
 🔤 1,771,180 Input Tokens, 182,924 Output Tokens
 
 💵 $35.42 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 19 AI Prompts
+🧠 13 AI Sessions, 5 AI Prompts
 
-GPT                      1,252 lines         █████████████████████░░░░   84.71 % 
-Gemini                   226 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+GPT                      1,252 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.7% of written lines came from AI
-📚 Verbose Prompter — average 1,776 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 19.01% of changed lines were hand-edited
+🤖 AI-Driven — 94.49% of written lines came from AI
+📚 Verbose Prompter — average 4,849 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 6.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 18:56:01 UTC
+ Last Updated on 17/08/2026 19:08:16 UTC
 <!--END_SECTION:waka-->
