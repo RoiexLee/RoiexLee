@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.37%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.51%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,45 +28,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    8 hrs 15 mins       █████████████░░░░░░░░░░░░   52.05 % 
-TypeScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Rust                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    8 hrs               ██████████░░░░░░░░░░░░░░░   40.67 % 
+Python                   3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Markdown                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+PowerShell               2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+TypeScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 21 mins       █████████████░░░░░░░░░░░░   52.69 % 
-VS Code                  7 hrs               ███████████░░░░░░░░░░░░░░   44.18 % 
-Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Antigravity Desktop      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Codex Vscode             12 hrs 8 mins       ███████████████░░░░░░░░░░   61.70 % 
+VS Code                  7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.78 % 
+Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Antigravity Desktop      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 31 mins (85.29%)
+⏱ AI Coding Time: 17 hrs 17 mins (87.87%)
 
-✍️ 1,480 lines written by AI, 3,889 lines written by hand (27.57% AI-written)
+✍️ 1,669 lines written by AI, 104 lines written by hand (94.13% AI-written)
 
-🔤 7,278,459 Input Tokens, 657,543 Output Tokens
+🔤 6,879,131 Input Tokens, 686,642 Output Tokens
 
-💵 $184.23 Estimated AI Cost This Week
+💵 $121.13 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 177 AI Prompts
+🧠 55 AI Sessions, 232 AI Prompts
 
-GPT                      1,082 lines         ██████████████████░░░░░░░   72.91 % 
-Codex-Vscode             402 lines           ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+GPT                      1,270 lines         ███████████████████░░░░░░   75.96 % 
+Codex-Vscode             402 lines           ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.57% of written lines came from AI
-📚 Verbose Prompter — average 5,281 characters per prompt
+🤖 AI-Driven — 94.13% of written lines came from AI
+📚 Verbose Prompter — average 5,830 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 76.21% of changed lines were hand-edited
+🚀 High AI Trust — 11.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 01:51:12 UTC
+ Last Updated on 29/08/2026 21:06:01 UTC
 <!--END_SECTION:waka-->
