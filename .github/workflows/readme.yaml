@@ -35,3 +35,13 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_AI_CODE_TIME: "True"
           SHOW_AI_CODING: "True"
+
+          SYMBOL_VERSION: "1"
+          BADGE_STYLE: "flat-square"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#90CAF9"
+          BAR_TRACK_COLOR: "#172F45"
+          BAR_RADIUS: "0"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
+          
