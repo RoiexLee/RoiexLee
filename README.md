@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On** 
 
+```text
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">6 hrs 16 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="85" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">23.66%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 58 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="81" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">22.56%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 33 mins</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="62" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">17.17%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">4 hrs 2 mins</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="55" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">15.24%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Rust</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 hr 26 mins</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="20" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.47%</text></svg>
-
+Markdown                 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+TypeScript               5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+JSON                     4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Other                    4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Rust                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+```
 
 🤖 **AI Coding This Week** 
 
@@ -43,7 +48,10 @@ Here are some ideas to get you started:
 
 🧠 72 AI Sessions, 103 AI Prompts
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">GPT</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">507 lines</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">GLM</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">ZCode</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Codex-Vscode</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">0 lines</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="0" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.00%</text></svg>
+GPT                      507 lines           █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.74% of written lines came from AI
@@ -53,5 +61,5 @@ Here are some ideas to get you started:
 ```
 
 
- Last Updated on 08/09/2026 03:29:30 UTC
+ Last Updated on 08/09/2026 04:27:48 UTC
 <!--END_SECTION:waka-->
