@@ -38,7 +38,7 @@ jobs:
 
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat-square"
-          BAR_STYLE: "svg"
+          BAR_STYLE: "text"
           BAR_COLOR: "#90CAF9"
           BAR_TRACK_COLOR: "#172F45"
           BAR_RADIUS: "0"
