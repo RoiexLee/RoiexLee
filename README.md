@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C555%20hrs%2032%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C555%20hrs%2036%20mins-blue?style=flat-square)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2044%20mins-blue?style=flat-square)
 
@@ -28,25 +28,25 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Markdown                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-TeX                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-TOML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-PowerShell               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other                    3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Markdown                 2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+TeX                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+TOML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+PowerShell               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 50 mins (87.2%)
+⏱ AI Coding Time: 10 hrs 13 mins (87.88%)
 
-✍️ 6,157 lines written by AI, 59 lines written by hand (99.05% AI-written)
+✍️ 6,157 lines written by AI, 67 lines written by hand (98.92% AI-written)
 
-🔤 4,468,786 Input Tokens, 630,851 Output Tokens
+🔤 4,448,471 Input Tokens, 630,399 Output Tokens
 
-💵 $130.57 Estimated AI Cost This Week
+💵 $130.38 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 90 AI Prompts
+🧠 38 AI Sessions, 78 AI Prompts
 
 ZCode                    3,870 lines         ██████████████████████░░░   89.81 % 
 GPT                      241 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
@@ -54,12 +54,12 @@ GLM                      198 lines           █░░░░░░░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📄 Detailed Prompter — average 524 characters per prompt
+🤖 AI-Driven — 98.92% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.33% of changed lines were hand-edited
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 20:51:20 UTC
+ Last Updated on 18/10/2026 21:00:49 UTC
 <!--END_SECTION:waka-->
