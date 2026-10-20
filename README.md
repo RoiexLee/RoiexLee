@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C564%20hrs%2013%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C571%20hrs%2053%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2043%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%206%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat-square)
 
@@ -28,38 +28,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
-Other                    6 hrs               ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-TOML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-PowerShell               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    10 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.19 % 
+TypeScript               5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Bash                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Python                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 23 mins (93.18%)
+⏱ AI Coding Time: 27 hrs 52 mins (95.35%)
 
-✍️ 8,959 lines written by AI, 54 lines written by hand (99.4% AI-written)
+✍️ 4,636 lines written by AI, 144 lines written by hand (96.99% AI-written)
 
-🔤 16,914,532 Input Tokens, 1,838,174 Output Tokens
+🔤 23,157,163 Input Tokens, 2,018,293 Output Tokens
 
-💵 $934.54 Estimated AI Cost This Week
+💵 $1220.75 Estimated AI Cost This Week
 
-🧠 139 AI Sessions, 122 AI Prompts
+🧠 158 AI Sessions, 187 AI Prompts
 
-GPT                      4,486 lines         █████████████░░░░░░░░░░░░   53.69 % 
-ZCode                    3,870 lines         ████████████░░░░░░░░░░░░░   46.31 % 
+GPT                      4,739 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📄 Detailed Prompter — average 511 characters per prompt
+🤖 AI-Driven — 96.99% of written lines came from AI
+📝 Concise Prompter — average 359 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
+🚀 High AI Trust — 3.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 22:37:02 UTC
+ Last Updated on 20/10/2026 21:51:55 UTC
 <!--END_SECTION:waka-->
