@@ -22,43 +22,43 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-902.23%20thousand%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-902.28%20thousand%20lines%20of%20code-blue?style=flat-square)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.38 % 
-TypeScript               18 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Python                   10 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    10 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JavaScript               2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 19 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.95 % 
+Other                    11 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Python                   10 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+TypeScript               8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+JavaScript               2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 66 hrs 49 mins (93.69%)
+⏱ AI Coding Time: 49 hrs 53 mins (87.32%)
 
-✍️ 40,743 lines written by AI, 4,160 lines written by hand (90.74% AI-written)
+✍️ 33,389 lines written by AI, 1,196 lines written by hand (96.54% AI-written)
 
-🔤 47,446,572 Input Tokens, 4,032,669 Output Tokens
+🔤 35,842,647 Input Tokens, 2,603,758 Output Tokens
 
-💵 $2719.70 Estimated AI Cost This Week
+💵 $1664.37 Estimated AI Cost This Week
 
-🧠 245 AI Sessions, 504 AI Prompts
+🧠 163 AI Sessions, 420 AI Prompts
 
-GLM                      26,903 lines        ████████████████░░░░░░░░░   64.77 % 
-GPT                      14,632 lines        █████████░░░░░░░░░░░░░░░░   35.23 % 
+GLM                      24,101 lines        ██████████████████░░░░░░░   71.31 % 
+GPT                      9,696 lines         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.74% of written lines came from AI
-📄 Detailed Prompter — average 554 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 23.99% of changed lines were hand-edited
+🤖 AI-Driven — 96.54% of written lines came from AI
+📄 Detailed Prompter — average 570 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 12.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 22:37:56 UTC
+ Last Updated on 31/10/2026 21:51:33 UTC
 <!--END_SECTION:waka-->
